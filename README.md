@@ -1,16 +1,14 @@
-# shoppe_ecommerce
+**Deskripsi Proyek Aplikasi E-Commerce**
 
-A new Flutter project.
+Aplikasi ini merupakan platform belanja online berbasis e-commerce yang dibangun menggunakan **Flutter** untuk tampilan dan interaksi, serta memanfaatkan **state management GetX** dengan pendekatan **Clean Architecture** untuk memastikan struktur kode yang modular, terorganisir, dan mudah dikembangkan. 
 
-## Getting Started
+Fitur utama yang akan diimplementasikan meliputi: 
+1. **Halaman Utama**: Menampilkan kategori produk dan penawaran menarik.
+2. **Detail Produk**: Informasi produk lengkap termasuk gambar, deskripsi, dan ulasan.
+3. **Keranjang Belanja**: Menyusun dan mengelola produk yang ingin dibeli.
+4. **Pembayaran**: Metode pembayaran yang aman dan beragam.
+5. **Manajemen Akun**: Profil pengguna, histori transaksi, dan pengaturan.
 
-This project is a starting point for a Flutter application.
+Desain UI aplikasi ini akan mengikuti template dari [Figma Shoppe E-commerce](https://www.figma.com/community/file/1321464360558173342/shoppe-ecommerce-clothing-fashion-store-multi-purpose-ui-mobile-app-design) untuk pengalaman pengguna yang modern dan responsif.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dengan menggunakan Flutter dan GetX, proyek ini menjanjikan performa tinggi serta kemudahan integrasi fitur tambahan di masa depan.
