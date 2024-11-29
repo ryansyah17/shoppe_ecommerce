@@ -12,3 +12,5 @@ Fitur utama yang akan diimplementasikan meliputi:
 Desain UI aplikasi ini akan mengikuti template dari [Figma Shoppe E-commerce](https://www.figma.com/community/file/1321464360558173342/shoppe-ecommerce-clothing-fashion-store-multi-purpose-ui-mobile-app-design) untuk pengalaman pengguna yang modern dan responsif.
 
 Dengan menggunakan Flutter dan GetX, proyek ini menjanjikan performa tinggi serta kemudahan integrasi fitur tambahan di masa depan.
+
+![file cover - 2](https://github.com/user-attachments/assets/c94524bd-d875-41a8-98b7-9e9783113728)
